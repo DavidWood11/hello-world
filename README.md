@@ -1,4 +1,2 @@
-# hello-world
-just another repository
-
-fdgsdfgdsfhsghdfsgsdfghsdf
+# Company-Search
+repository for the company search application
